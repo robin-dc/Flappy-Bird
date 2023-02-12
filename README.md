@@ -1,4 +1,4 @@
-# FLAPPY BIRD : JUST AN ANIMATION
+# Flappy Bird : JUST AN ANIMATION
 
 Scroll to middle to see the illusion happen <br> https://robin-dc.github.io/Flappy-Bird/ .
 
